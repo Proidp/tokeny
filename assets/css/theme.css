@@ -1,0 +1,35 @@
+.dark-mode .l-main{
+    background: #131320;
+}
+.dark-mode .l-canvas, .l-footer, .l-popup-box-content, .w-cart-dropdown, .w-iconbox.style_circle.color_light .w-iconbox-icon, .w-pricing-item-h, .w-person.layout_card, .w-tabs.layout_timeline .w-tabs-item, .w-tabs.layout_timeline .w-tabs-section-header-h, .leaflet-popup-content-wrapper, .leaflet-popup-tip, .woocommerce .form-row .chosen-drop, .us-woo-shop_modern .product-h, .select2-dropdown{
+    color: white !important;
+}
+.dark-mode P{color: white !important;}
+.dark-mode h1, h2,h3,h4,h5,h6{
+    color: white;
+}
+.dark-mode .custom-color{
+    color: white;
+}
+.custom-color{
+    color: #000;
+}
+.dark-mode section{
+    background: #131320;
+}
+.dark-mode .custom-bg-color{
+    background-color: #0e0e18;
+}
+.custom-bg-color{
+    background-color: #f3f5f7;
+}
+.dark-mode hr, .dark-mode td, .dark-mode th, .dark-mode input, .dark-mode textarea, .dark-mode select, .dark-mode .l-section, .dark-mode .vc_column_container, .dark-mode .vc_column-inner, .dark-mode .w-form-row-field input:focus, .dark-mode .w-form-row-field textarea:focus, .dark-mode .widget_search input[type="text"]:focus, .dark-mode .w-comments .children, .dark-mode .w-separator, .dark-mode .w-sharing-item, .dark-mode .w-tabs-list, .dark-mode .w-tabs-section, .dark-mode .l-main .widget_nav_menu .menu, .dark-mode .l-main .widget_nav_menu .dark-mode .menu-item a, .dark-mode .wpml-ls-legacy-dropdown a, .dark-mode .wpml-ls-legacy-dropdown-click a, .dark-mode .woocommerce .quantity.buttons_added input.qty, .dark-mode .woocommerce .quantity.buttons_added .plus, .dark-mode .woocommerce .quantity.buttons_added .minus, .dark-mode .woocommerce-tabs .tabs, .dark-mode .woocommerce .commentlist .comment-text, .dark-mode .woocommerce .related, .dark-mode .woocommerce .upsells, .dark-mode .woocommerce .cross-sells, .dark-mode .woocommerce ul.order_details li, .dark-mode .select2-selection, .dark-mode .smile-icon-timeline-wrap .timeline-line{
+    /* background-color: #0e0e18; */
+    border-color: #0e0e18;
+}
+.dark-mode .shadow-box{
+    background-color: #0e0e18 !important;
+}
+.dark-mode .vc_custom_1593070287993{
+    background-color: #0e0e18 !important;
+}
